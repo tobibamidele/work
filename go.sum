@@ -1,0 +1,8 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/shopspring/decimal v1.4.0 h1:bxl37RwXBklmTi0C79JfXCEBD1cqqHt0bbgBAGFp81k=
+github.com/shopspring/decimal v1.4.0/go.mod h1:gawqmDU56v4yIKSwfBSFip1HdCCXN8/+DMd9qYNcwME=
+github.com/tobibamidele/lathe v0.4.0 h1:IUSQYiKzLru1qa9t9JpFcyeavq9wYdLP204vAwQYTy8=
+github.com/tobibamidele/lathe v0.4.0/go.mod h1:EuJA6qwGgHquBLfsPi103xysrN/xbC4VPb3bdnq70wY=
+github.com/tobibamidele/validate v0.0.0-20261008115932-920c462609fa h1:DdOrT32fh2SEjgiah4DlknoQdnYqOMXE7JpJDf589Vo=
+github.com/tobibamidele/validate v0.0.0-20261008115932-920c462609fa/go.mod h1:X3NkJL7Wnk+8YZoZ9oRiQHhvc98lsZWkFoHxwHW9bmM=
